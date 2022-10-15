@@ -1,0 +1,49 @@
+#calen-btn {
+  color: rgb(9, 9, 9);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: large;
+  font-weight: 300px;
+  border-radius: 35px;
+  display: center;
+  margin: 20px;
+ margin:auto;
+ padding:20px;
+}
+
+.calendly-btn {
+  padding:15px;
+  border-radius: 20px;
+  width:40%;
+  margin: auto;
+  margin-bottom:40px;
+  display: center;
+  background-color: rgb(241, 212, 245);
+}
+
+.calendly-btn:hover{
+  background-color: rgb(165, 247, 221);
+}
+input,
+textarea {
+  display: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+}
+label {
+  color: aqua;
+}
+#buttn {
+  color: rgb(2, 2, 2);
+  background-color: rgb(233, 233, 239);
+  padding: 10px;
+  display: center;
+  border-radius: 20px;
+}
+
+#buttn:hover {
+  background-color: rgb(217, 220, 223);
+}
