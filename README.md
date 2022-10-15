@@ -1,8 +1,24 @@
 # Jreact-portfolio
-------
-
   ------
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
+
+----# Security Policy
+
+## Supported Versions
+
+This page is currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+
+--
+
+
 ## Description
 ------
 
