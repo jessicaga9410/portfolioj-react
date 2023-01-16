@@ -48,11 +48,11 @@ function About() {
     borderColor : 'white'
 }}/>
 <p className="text-white text-3l font-light mt-5" id=""><strong>Hobbies:</strong>
-         Taking Lyli (pup) to the beach and walking to the park 
+         Taking my dog to the beach and walking to the park 
          are two of my favorite pastimes. <br />
           I like reading and learning self-development books <br />
            and listening to podcasts. <br />
-           I cant wait to learn about you and how I can assist you. <br />
+           I can't wait to learn about you and how I can assist you. <br />
             Thanks for visiting! 
         <br />
         </p>

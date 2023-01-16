@@ -5,9 +5,9 @@ import image3 from "../assets/quiz.png";
 import image4 from "../assets/passwordgenerator.png";
 import image5 from "../assets/fitnesstracker.png";
 import image6 from "../assets/noteTaker.png";
+import "./projects.css";
 
-
-function Work() {
+function Projects() {
   return (
 
 <>
@@ -106,4 +106,4 @@ function Work() {
  );
 }
 
-export default Work;
+export default Projects;

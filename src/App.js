@@ -3,7 +3,7 @@ import About from "./Component/About/About";
 import Navb from "./Component/Navb/Navb";
 import Footer from "./Component/Footer/Footer";
 import Home from "./Component/Home/Home";
-import Work from "./Component/Work/Work";
+import Projects from "./Component/Projects/Projects";
 import Contact from "./Component/Contact/Contact";
 // import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
@@ -17,7 +17,7 @@ function App() {
         {/* <Switch> */}
           <Route path="/" exact component={Home} />
           <Route path="/about" component={About} />
-          <Route path="/work" component={Work} />
+          <Route path="/projects" component={Projects} />
           <Route path="/contact" component={Contact} />
         {/* </Switch> */}
       </Router>
