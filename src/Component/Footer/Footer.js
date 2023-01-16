@@ -57,7 +57,7 @@ function Footer() {
 
 
       <div className="text-center p-4 line-footer">
-        © 2022 Copyright. All Rights Reserved. 🤍 JG Portfolio 
+        © 2022 Copyright. 🤍 My Portfolio. 
       </div>
     </footer>
   );
