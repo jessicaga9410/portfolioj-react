@@ -36,6 +36,8 @@ function About() {
            use HTML, CSS and React.js on my websites. <br />
          I love using Tailwind, <br />
          Bootstrap and Materialize CSS.<br />
+         It would be a pleasure to learn more about you and how I can be of assistance.
+         <br />
          <br />
          </h2>
 
@@ -47,16 +49,13 @@ function About() {
     marginRight:700,
     borderColor : 'white'
 }}/>
-<p className="text-white text-3l font-light mt-5" id=""><strong>Hobbies:</strong>
-         Taking my dog to the beach and walking to the park 
-         are two of my favorite pastimes. <br />
-          I like reading and learning self-development books <br />
-           and listening to podcasts. <br />
-           I can't wait to learn about you and how I can assist you. <br />
-            Thanks for visiting! 
+<p className="text-white text-3l font-light mt-5" id=""><strong>Hobbies : </strong>
+Some of my favorite pastimes are taking my dog to the park or nearby lake and enjoy nature.<br />
+I enjoy reading self-development books and listening to podcasts. <br />It is also important for me to maintain a healthy lifestyle and 
+<br />to remain active so a pleasant way for me to wind down after a long day is to jog or do Pilates. 
+<br />
         <br />
-        </p>
-  
+      </p> 
 
       <div className="p-20">
         <div className="resume1">
