@@ -1,6 +1,6 @@
 import React from "react";
 import "tw-elements";
-
+import "./footer.css";
 
 function Footer() {
   return (
@@ -8,7 +8,7 @@ function Footer() {
       <div className="flex justify-center mb-2 pb-20">
      
         <a
-          href="https://linkedin.com/in/jessicaga07"
+          href="https://linkedin.com/in/jessicagalarza07"
           type="button"
           className="rounded-full border-2 border-white text-white leading-normal
            uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"

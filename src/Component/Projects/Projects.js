@@ -3,8 +3,8 @@ import image1 from "../assets/p1.png";
 import image2 from "../assets/unearthlyvenues.png";
 import image3 from "../assets/quiz.png";
 import image4 from "../assets/passwordgenerator.png";
-import image5 from "../assets/fitnesstracker.png";
-import image6 from "../assets/noteTaker.png";
+// import image5 from "";
+import image6 from "../assets/workday-Scheduler.jpg";
 import "./projects.css";
 
 function Projects() {
@@ -19,7 +19,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Take a Hike</div>
         <p className="text-gray-100 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+        New to hiking? Ease yourself into the outdoors step-by-step with this primer on how to get comfortable getting outside to enjoy the outdoors' natural beauty.Discover the best hiking trails and routes, view maps by city and state and local weather. Note: for development purposes only.
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
@@ -33,7 +33,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Unearthly Venues</div>
         <p className="text-gray-100 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+         Search for private venues for wedding showers or rehearsal dinners. Historic museums or spooky loft spaces are ideal for epic celebrations. 
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
@@ -48,7 +48,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Quick Quiz</div>
         <p className="text-gray-100 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+        Looking to improve your intelligence? Try this Short thinking game that uses old school riddles and a score card. 
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
@@ -63,7 +63,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Password Generator</div>
         <p className="text-gray-100 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+        Instantly generate a secure password using the prompts provided. Just copy and paste when you are done! 
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
@@ -74,30 +74,30 @@ function Projects() {
     </div>
 
 
-    <div className="rounded-lg overflow-hidden shadow-lg  border border-gray-200">
+    {/* <div className="rounded-lg overflow-hidden shadow-lg  border border-gray-200">
       <img className="w-full" src={image5} alt="book-search" />
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Fitness Tracker</div>
         <p className="text-gray-100 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+          Easily find your excersice type resistance or cardio workout routine for a healthier and more active lifestyle. With this easy fitness tracker you can find what kind of activity you need to stay healthy. 
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
       <a href="https://github.com/jessicaga9410/Fitness-tracker" className="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-6">Github</a>
       <a href="https://quiet-plateau-40444.herokuapp.com/?id=6195aded30b5920016d2c2ed" className="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-6"> Click for website</a>
       </div>
-    </div>
+    </div> */}
     <div className="rounded-lg overflow-hidden shadow-lg  border border-gray-200">
       <img className="w-full" src={image6} alt="note-taker" />
       <div className="px-6 py-4">
-        <div className="font-bold text-xl mb-2 text-pink-200">Note-taker</div>
+        <div className="font-bold text-xl mb-2 text-pink-200">Workday Scheduler</div>
         <p className="text-gray-100 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+        It's so much easier to have a schedule in hand when you're busy working. This scheduler allows you to easily update it by hour!
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
-      <a href="https://github.com/jessicaga9410/Note-Taker" className="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-6">Github</a>
-      <a href="https://note-taker00017.herokuapp.com/" className="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-6"> Click for website</a>
+      <a href="https://github.com/jessicaga9410/WorkDay_Scheduler" className="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-6">Github</a>
+      <a href="https://jessicaga9410.github.io/WorkDay_Scheduler/" className="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-6"> Click for website</a>
       </div>
     </div>
     

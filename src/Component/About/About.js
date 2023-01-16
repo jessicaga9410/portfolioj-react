@@ -43,8 +43,8 @@ function About() {
     color: 'white',
     backgroundColor: 'white',
     height: .2,
-    marginLeft:400,
-    marginRight:400,
+    marginLeft:700,
+    marginRight:700,
     borderColor : 'white'
 }}/>
 <p className="text-white text-3l font-light mt-5" id=""><strong>Hobbies:</strong>
