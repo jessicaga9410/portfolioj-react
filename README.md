@@ -34,7 +34,7 @@ This page is currently being supported with security updates.
 ------
 `npm install` `npm start` `then open http://localhost:3000 in browser`
 
-[Deployed on Netlify Click to follow link.](https://taupe-torrone-cc9586.netlify.app)
+<!-- [Deployed on Netlify Click to follow link.](https://taupe-torrone-cc9586.netlify.app) -->
 
 ## License
 ------
