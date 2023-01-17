@@ -50,7 +50,7 @@ function About() {
     borderColor : 'white'
 }}/>
 <p className="text-white text-3l font-light mt-5" id=""><strong>Hobbies : </strong>
-Some of my favorite pastimes are taking my dog to the park or nearby lake and enjoy nature.<br />
+Some of my favorite pastimes are enjoying nature with my dog.<br />
 I enjoy reading self-development books and listening to podcasts. <br />It is also important for me to maintain a healthy lifestyle and 
 <br />to remain active so a pleasant way for me to wind down after a long day is to jog or do Pilates. 
 <br />
