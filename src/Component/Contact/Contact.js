@@ -66,7 +66,7 @@ export default function App() {
                 </button>
               </div>
               <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                <a className="text-indigo-500">Jessicaga941@gmail.com</a>
+                <a href= "mailto:jessicaga941@gmail.com">Jessicaga941@gmail.com</a>
                
                 <span className="inline-flex">
                  
