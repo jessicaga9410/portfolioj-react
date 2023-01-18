@@ -1,4 +1,4 @@
-# Jreact-portfolio
+# Portfolioj-react
   ------
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 
@@ -19,13 +19,8 @@ This page is currently being supported with security updates.
 --
 
 
-## Description
-------
-
-
  ## Table of Contents
 ------
-- [Description](#description)
 - [Installation](#installation)
 - [License](#license)
 - [Questions](#questions)
