@@ -1,4 +1,4 @@
-<!-- # Jreact-portfolio
+-- # portfolioj-react
   ------
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 
@@ -19,13 +19,10 @@ This page is currently being supported with security updates.
 --
 
 
-## Description
-------
-
 
  ## Table of Contents
 ------
-- [Description](#description)
+
 - [Installation](#installation)
 - [License](#license)
 - [Questions](#questions)
@@ -34,7 +31,7 @@ This page is currently being supported with security updates.
 ------
 `npm install` `npm start` `then open http://localhost:3000 in browser`
 
-<!-- [Deployed on Netlify Click to follow link.](https://taupe-torrone-cc9586.netlify.app) -->
+-- [Deployed on Netlify Click to follow link.](https://taupe-torrone-cc9586.netlify.app) --
 
 ## License
 ------
@@ -48,4 +45,4 @@ Find me on GitHub: [Jessicaga9410](https://github.com/Jessicaga9410)<br />
 <br />
 
 Email me with any questions: Jessicaga941@gmail.com<br /><br />
- -->
+ --
