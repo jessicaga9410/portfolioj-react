@@ -1,5 +1,6 @@
 {
-  "homepage": "http://jessicaga941.github.io/portfolioj-react",
+  "name": "portfolioj-react",
+  "homepage": "http://jessicaga941.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
