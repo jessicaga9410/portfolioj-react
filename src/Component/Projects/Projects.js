@@ -19,7 +19,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Take a Hike</div>
         <p className="text-gray-100 text-base">
-        New to hiking? Ease yourself into the outdoors step-by-step with this primer on how to get comfortable getting outside to enjoy the outdoors' natural beauty.Discover the best hiking trails and routes, view maps by city and state and local weather. Note: for development purposes only.
+        New to hiking? Ease yourself into the outdoors step-by-step with this primer on how to get comfortable getting outside to enjoy the outdoors' natural beauty.Discover the best hiking trails and routes, view maps by city and state and local weather. 🏔️🚵🏻‍♀️
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
@@ -33,7 +33,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Unearthly Venues</div>
         <p className="text-gray-100 text-base">
-         Search for private venues for wedding showers or rehearsal dinners. Historic museums or spooky loft spaces are ideal for epic celebrations. 
+         Search for private venues for wedding showers or rehearsal dinners. Historic museums or spooky loft spaces are ideal for epic celebrations. 👻 
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
@@ -48,7 +48,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Quick Quiz</div>
         <p className="text-gray-100 text-base">
-        Looking to improve your intelligence? Try this Short thinking game that uses old school riddles and a score card. 
+        Looking to improve your intelligence? Try this Short thinking game that uses old school riddles and a score card. 🧠
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
@@ -63,7 +63,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Password Generator</div>
         <p className="text-gray-100 text-base">
-        Instantly generate a secure password using the prompts provided. Just copy and paste when you are done! 
+        Instantly generate a secure password using the prompts provided. Just copy and paste when you are done! 🔒
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
@@ -92,7 +92,7 @@ function Projects() {
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2 text-pink-200">Workday Scheduler</div>
         <p className="text-gray-100 text-base">
-        It's so much easier to have a schedule in hand when you're busy working. This scheduler allows you to easily update it by hour!
+        It's so much easier to have a schedule in hand when you're busy working. This scheduler allows you to easily update it by hour! ⌚
         </p>
       </div>
       <div className="px-6 pt-4 pb-6">
